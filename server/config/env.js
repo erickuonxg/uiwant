@@ -2,8 +2,8 @@ module.exports = {
 
 	db : {
 		name:'uiwant',
-		user:'erickuo',
-		password:'310049',
+		user:'',
+		password:'',
 		host : 'localhost'
 	},
 
